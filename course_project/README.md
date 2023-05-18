@@ -13,6 +13,8 @@ The model architecture is U-Net.
 
 ## Dataset
 The dataset used was provided by the competition. It contains a training set and a validation set.
+To use this project, download the train.parquet and val.parquet file from [huggingface](https://huggingface.co/datasets/sjyhne/mapai_training_data/tree/main).
+Place the files in the dataset directory.
 
 ## Results
 The competition evaluates the results using IoU and BIoU.
