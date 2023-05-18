@@ -16,6 +16,8 @@ The dataset used was provided by the competition. It contains a training set and
 To use this project, download the train.parquet and val.parquet file from [huggingface](https://huggingface.co/datasets/sjyhne/mapai_training_data/tree/main).
 Place the files in the dataset directory.
 
+![exampleimages_2](https://github.com/Halvorte/IKT452/assets/75445926/678b1167-26a8-4a0f-bcd5-1ffde0101727)
+
 ## Results
 The competition evaluates the results using IoU and BIoU.
 The results I achieved was validated by getting the IoU and BIoU on the validation part of the dataset.
@@ -24,3 +26,5 @@ I achieved these results:
 Score: 0.810140289508601, iou: 0.8895996830636844, biou: 0.730680895953518
 
 This is better than the first place of the competition on Task 1, which is why I am a bit unsure if everything is correct.
+
+![image example-6_16 05 23 (1)](https://github.com/Halvorte/IKT452/assets/75445926/f6391ec1-a8ba-4365-8217-24d9e13f4194)
